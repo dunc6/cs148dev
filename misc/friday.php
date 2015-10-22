@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 include 'top.php';
-
+ 
 $file = fopen("friday.sql", "r") or die("Error");
 
 //now print out each record
