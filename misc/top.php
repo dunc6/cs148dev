@@ -5,7 +5,7 @@ require_once('lib/custom-functions.php');
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>CS148 Databases Fun</title>
+        <title>! CS148 Databases Fun</title>
         <meta charset="utf-8">
         <meta name="author" content="Duncan Whitaker">
         <meta name="description" content="Duncan's Database Tester">
