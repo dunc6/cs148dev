@@ -2,7 +2,7 @@
 
 <header>
     <figure class="float_left small">
-            <img alt="Skiing in Colorado" src="Hiking_breck.jpg">
+            <img alt="Skiing in Colorado" src="images/Hiking_breck.jpg">
             <figcaption>Hiking on Breckenridge</figcaption>
     </figure>
     <h1>CS148 Databases and SQL</h1>
